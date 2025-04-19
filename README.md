@@ -41,7 +41,7 @@ Fork repository ini dan rename menjadi NAMA_NIM_UTS_AP1
 
 Silahkan masukkan link gdrive (untuk soal 5) dalam kotak berikut
 
-      [https://drive.google.com/drive/folders/15ztBIFug-1_SaVINAdJgl5X0nc9hbwYL]
+      [https://drive.google.com/file/d/16Hq_VY5Ce_YiT0CrfGGDAeuvb6Wc5ve8/view?usp=drivesdk]
       
 
 # ⚠️ _JANGAN COBA-COBA UNTUK COPY PASTE CODE DARI TEMAN ATAUPUN YANG ADA DI GOOGLE. MOHON KERJAKAN MASING-MASING._ ⚠️
